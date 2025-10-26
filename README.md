@@ -2,7 +2,7 @@
 *Contains my Final project from the term*
 
 ## Functionality and purpose
-The Treasure Hunt project uses reinforcement learning to train an AI agent (a pirate) to find treasure in a maze. The main game code was already written —my part was completing the training model qtrain. The agent learns by exploring the maze, earning rewards for finding treasure and penalties for hitting walls. Over time, it improves and finds the best path to the treasure on its own.
+The Treasure Hunt project uses reinforcement learning to train an AI agent (a pirate) to find treasure in a maze. The main game code was already written, **my part was completing the training model qtrain function**. The agent learns by exploring the maze, earning rewards for finding treasure and penalties for hitting walls. Over time, it improves and finds the best path to the treasure on its own.
 
 ## Preview 👀
 <img src="Preview/example2.png" width="400"/>
