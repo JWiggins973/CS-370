@@ -1,0 +1,4 @@
+numpy==1.26
+keras==3.10.0
+tensorflow==2.19
+gymnasium
